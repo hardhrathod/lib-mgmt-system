@@ -15,4 +15,4 @@ The project can be opened using NetBean IDE 8.2 by following the below steps:
 
 Create and Insert statments for the tables have been included in a seperate folder.
 
-Please refer "QuickStartGuide" and "Design Document" for more information.
+Please refer "Design Document" for more information.
